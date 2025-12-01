@@ -1,4 +1,4 @@
-# Brainrot
+# BrainRot
 
 Lightweight computer-vision demo using **MediaPipe** and **OpenCV** (cv2).  
 This repo demonstrates real-time detection / tracking pipelines (e.g. face/pose/hands) and simple visual output. Built in Python and intended for experimentation and learning.
